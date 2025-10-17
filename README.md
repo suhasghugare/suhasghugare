@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**suhasghugare/suhasghugare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,4 +14,3 @@ Here are some ideas to get you started:
     👀 I’m interested in AI methods for Chemical Engineering/Material Science
     🌱 I have completed PhD in Chemical Engineering with Specialization in "AI methods applied to Chemical Engineering"
     💞️ I’m looking forward to enhance my practical knowledge in these subjects by collaborating with eminent persons in the field
--->
